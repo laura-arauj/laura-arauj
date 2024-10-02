@@ -1,6 +1,6 @@
 ## Olá bem vindo ao meu perfil👋
 - Meu nome é **Laura** ...
-- Estou estudando na (Alura)[https://cursos.alura.com.br/]
+- Estou estudando na [Alura](https://cursos.alura.com.br/)
 - Utilizo esse espaço para minha organização
 
 - Aqui esta meu email para contato
