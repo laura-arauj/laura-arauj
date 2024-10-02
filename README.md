@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá bem vindo ao meu perfil👋
+- Meu nome é **Laura** ...
+- Estou estudando na (Alura)[https://cursos.alura.com.br/]
+- Utilizo esse espaço para minha organização
+
+- Aqui esta meu email para contato
+- 📫 @00001097595079sp@al.educacao.sp.gov.br
 
 <!--
 **laura-arauj/laura-arauj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...📫 How to reach me
 -->
